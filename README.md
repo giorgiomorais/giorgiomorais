@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Giorgio Morais</h1>
-<h3 align="center">Analista de Dados com 3+ anos de experiência</h3>
+<h3 align="center">Analista de Dados com 4+ anos de experiência</h3>
 
 - 🌱 I'm learning about **Python**
 
